@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 a.text at home
 a.txt at home --2
+=======
+a.txt at home:
+
+a.txt at work
+>>>>>>> 960acaf94f27011a9621965156af8d6ce7cc4e9f
